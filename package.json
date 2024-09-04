@@ -1,0 +1,19 @@
+{
+  "name": "clear-fetch",
+  "version": "0.0.2",
+  "description": "A clear fetch request library",
+  "main": "index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "keywords": ["clear","fetch", "clear-fetch", "request","http"],
+  "author": "promonkeyli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promonkeyli/clear-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/promonkeyli/clear-fetch/issues"
+  },
+  "homepage": "https://github.com/promonkeyli/clear-fetch#readme"
+}
